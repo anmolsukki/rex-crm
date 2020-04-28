@@ -1,0 +1,7 @@
+.pr-3, .px-3 {
+    padding-right: 60rem !important;
+}
+
+.btn-primary.btn-logout {
+    margin-left: -100px;
+}

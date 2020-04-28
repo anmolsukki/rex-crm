@@ -1,0 +1,7 @@
+span.validation-error {
+    position: absolute;
+    bottom: -30px;
+    line-height: 15px;
+    min-height: 30px;
+    font-size: 13px;
+}
